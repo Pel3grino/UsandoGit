@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace UsandoGit.Interfaces
 {
-    interface Interfaces
+    interface IAtividades
     {
+        public void Correr();
+
+        public void Nadar();
+
+        public void Andar();
+
+        public void Saltar();
+
     }
+
+
 }
