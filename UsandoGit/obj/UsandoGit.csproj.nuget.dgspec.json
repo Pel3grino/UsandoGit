@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj": {}
+    "C:\\Repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj": {}
   },
   "projects": {
-    "C:\\repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj": {
+    "C:\\Repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
+        "projectUniqueName": "C:\\Repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
         "projectName": "UsandoGit",
-        "projectPath": "C:\\repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
+        "projectPath": "C:\\Repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\UsandoGit\\UsandoGit\\obj\\",
+        "outputPath": "C:\\Repos\\UsandoGit\\UsandoGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

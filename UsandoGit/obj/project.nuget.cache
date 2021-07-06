@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7zNWN52KvtjKwRBBUZWlZk6KgO5REDQWbjSmJzniNMPBN7ztT+VdaGK1zFNdbqEcFb3ILCUA4GJcJkP/qrcKg==",
+  "dgSpecHash": "YH3aVo0AFapdKjuJeN6iU2yDc0fENdz+YYt8vNHbMfFxQAEO3WoI2Ag6AhuJG/SF4yTZI7FNb6m/Y++YBp1/Ng==",
   "success": true,
-  "projectFilePath": "C:\\repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
+  "projectFilePath": "C:\\Repos\\UsandoGit\\UsandoGit\\UsandoGit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
   ],
